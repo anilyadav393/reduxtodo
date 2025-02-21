@@ -1,0 +1,98 @@
+export const jobData = [
+  {
+    id: 1,
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-b-GRJP49S_nvl8UDCQ2DDusVBUmQcN1Ug&s",
+    company: "Netflix",
+    title: "Devops Engineer",
+    description: "We are looking for a DevOps Engineer with a minimum of 5 years of industry experience, preferably working in the financial IT community. The position in the team is focused on delivering exceptional services to both BU and Dev partners to minimize/avoid any production outages. The role will focus on production support.",
+    salary: "₹12,00,000 - ₹16,00,000",
+    employmentType: "Full-time",
+    location:"Hyderabad",
+    lifeatimg:"https://officebanao.com/wp-content/uploads/2024/03/Corporate-Interior-Design-Excellence.jpg",
+    lifeat:"From building the future of augmented and virtual reality at Oculus, Shanghai, to engineering the future of our apps in Singapore, there’s no limit to the impact you can make. Bring your unique perspectives and help us build for people in and around the globe to bring the world closer together."
+  },
+  {
+    id: 2,
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLY2_jKHcpLoKFlU8doZWDM7Sw3qy9vYZ17A&s",
+    company: "Google",
+    title: "Data Scientist",
+    description: "Google’s Data Science team leverages big data to empower business decisions. The Data Science team at google works in close partnership with the trusted engineering, content moderator, and product teams to identify opportunities to develop and enhance google user experiences.",
+    salary: "₹7,00,000 - ₹10,00,000",
+    employmentType: "full-time",
+    location:"Pune",
+    lifeatimg:"https://boardwalkindia.com/wp-content/uploads/2023/07/Tech-Office-Space-1024x682.jpg",
+    lifeat:"Google is not a conventional company, and we do not intend to become one. We know that every employee has something important to say and that every employee is integral to our success. Our mission is to organize the world‘s information and make it universally accessible."
+  },
+  {
+    id: 3,
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwj5BaKCnu8FDtQVV9P4dqYOMDudJWpBfXA&s",
+    company: "Myntra",
+    title: "UI/UX Designer",
+    description: "Design engaging user interfaces and experiences.",
+    salary: "₹5,00,000 - ₹8,00,000",
+    employmentType: "Internship",
+    location:"Banglore",
+    lifeatimg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JlHq_eHSimMzzJHsveHmSeL-D30z-SfiGw&s",
+    lifeat:"At Myntra, it's always Day 1. This means that our approach remains the same as it was on Myntra's 1st day: We embrace new ways of doing things, strive to stay nimble, make decisions quickly, and always focus on delighting customers. Our Leadership Principles help us maintain a Day 1 mentality and guide our behaviors, decisions, and ideas."
+  },
+  {
+    id: 4,
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp25J5UECbc6JjbIfsrMAtFnL2k01zgrv3BA&s",
+    company: "Facebook",
+    title: "Backend Engineer",
+    description: "We’re in search of a Back-End Software Engineer that specializes in server-side components. In this role, you’ll primarily work in NodeJs, SQL Lite, Python, AWS and GO and will bring a depth of knowledge on basic algorithms and data structures. As a Back-End Engineer, you might be architecting new features for our customers.",
+    salary: "₹10,00,000 - ₹15,00,000",
+    employmentType: "Full-time",
+    location:"Mumbai",
+    lifeatimg:"https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/rxbar-3-cool-office-spaces.jpg",
+    lifeat:"From building the future of augmented and virtual reality at Oculus, Shanghai, to engineering the future of our apps in Singapore, there’s no limit to the impact you can make. Bring your unique perspectives and help us build for people in and around the globe to bring the world closer together."
+  },
+  {
+    id: 5,
+    logo: "https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png",
+    company: "Zomato",
+    title: "Devops Engineer",
+    description: "As a DevOps Engineer, you will play a key role in bringing important software to market and into widespread use. In this role, you will integrate a variety of leading-edge technology stacks securely, and ensure the availability and safety of the production systems at scale.",
+    salary: "₹5,00,000 - ₹15,00,000",
+    employmentType: "Full-time",
+    location:"Chennai",
+    lifeatimg:"https://boardwalkindia.com/wp-content/uploads/2023/07/Tech-Office-Space-1024x682.jpg",
+    lifeat:"At Zomato, the art of creating good food meets the science of data, to create magic. With the help of deep insights, we serve best-in-class experiences to both restaurateurs and consumers. Be it through curating mouth-watering menus for top brands, plugging cuisine gaps, or simply serving customers the food they love."
+  },
+  {
+    id: 6,
+    logo: "https://upload.wikimedia.org/wikipedia/commons/1/13/Swiggy_logo.png",
+    company: "Swiggy",
+    title: "Devops Engineer",
+    description: "As a DevOps Engineer, you will play a key role in bringing important software to market and into widespread use. In this role, you will integrate a variety of leading-edge technology stacks securely, and ensure the availability and safety of the production systems at scale.",
+    salary: "₹3,00,000 - ₹7,00,000",
+    employmentType: "full-time",
+    location:"Karnataka",
+    lifeatimg:"https://officesnapshots.com/wp-content/uploads/2021/08/tech-company-office-design.jpeg",
+    lifeat:"At Swiggy, the art of creating good food meets the science of data, to create magic. With the help of deep insights, we serve best-in-class experiences to both restaurateurs and consumers. Be it through curating mouth-watering menus for top brands, plugging cuisine gaps, or simply serving customers the food they love."
+  },
+  {
+    id: 7,
+    logo: "https://i.pinimg.com/originals/01/ca/da/01cada77a0a7d326d85b7969fe26a728.jpg",
+    company: "Amazon",
+    title: "ML Engineer",
+    description: "We’re looking for a scientist who can define the next generation of FMA ML-based ranking, pricing, and econometric models to further improve customer experience and customer trust on Amazon. This scientist will work with tech and business teams within and outside of FMA to think outside the box and design innovative solutions.",
+    salary: "₹7,00,000 - ₹8,00,000",
+    employmentType: "Internship",
+    location:"Hyderabad",
+    lifeatimg:"https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/rxbar-3-cool-office-spaces.jpg",
+    lifeat:"From building the future of augmented and virtual reality at Oculus, Shanghai, to engineering the future of our apps in Singapore, there’s no limit to the impact you can make. Bring your unique perspectives and help us build for people in and around the globe to bring the world closer together."
+  },
+  {
+    id: 8,
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9z92QyHge_ZXqZBGocpNrajNBOQXKqbJeqQ&s",
+    company: "Flipcart",
+    title: "Devops Engineer",
+    description: "The Security Operations team is seeking a new team member to assist with a large-scale Data Center Migration and application integration. This team supports customer service and several corporate functions (HR/Legal/Compliance), primarily with PayPal’s global partners that use Citrix and third-party platforms.",
+    salary: "₹7,00,000 - ₹8,00,000",
+    employmentType: "full-time",
+    location:"Maharastra",
+    lifeatimg:"https://boardwalkindia.com/wp-content/uploads/2023/07/Tech-Office-Space-1024x682.jpg",
+    lifeat:"At Flipkart, our promise to every Flipster is that everyone gets an opportunity to leave a mark and create their legacy. They get the freedom to experiment, learn and grow, work with the industry’s brightest minds as part of a diverse team. We will extend our culture of care to them to ensure that they can focus on doing their best work."
+  },
+];
